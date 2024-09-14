@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.PanelClock" parent="android:Theme.Material.NoActionBar.Fullscreen" >
+    <!-- Hide the status bar -->
+    <item name="android:windowFullscreen">true</item>
+    <!-- Optional: Hide the action bar -->
+    <item name="android:windowActionBar">true</item>
+    </style>
+</resources>
